@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\denys\Desktop\IK-11\Denys Tsybko\2 СЕМЕСТР\OOP\lab1.1\lab1.1\Source.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\denys\Desktop\IK-11\Denys Tsybko\2 СЕМЕСТР\OOP\lab1.1\lab1.1\Source.cpp(11,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\denys\Desktop\IK-11\Denys Tsybko\2 СЕМЕСТР\OOP\lab1.1\lab1.1\Source.cpp(11,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  intRAnge.cpp
+  Generating Code...
+  lab1.1.vcxproj -> C:\Users\denys\Desktop\IK-11\Denys Tsybko\2 СЕМЕСТР\OOP\lab1.1\Debug\lab1.1.exe
